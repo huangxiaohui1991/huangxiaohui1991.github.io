@@ -4,9 +4,9 @@
   <subtitle>Poor people to learn more..</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://huangxiaohui.github.io/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2016-08-19T10:03:35.000Z</updated>
-  <id>http://huangxiaohui.github.io/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>够狠才Man√</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello</title>
-    <link href="http://huangxiaohui.github.io/2016/08/19/Hello/"/>
-    <id>http://huangxiaohui.github.io/2016/08/19/Hello/</id>
+    <link href="http://yoursite.com/2016/08/19/Hello/"/>
+    <id>http://yoursite.com/2016/08/19/Hello/</id>
     <published>2016-08-19T10:02:19.000Z</published>
     <updated>2016-08-19T10:03:35.000Z</updated>
     
@@ -31,14 +31,14 @@
     </summary>
     
     
-      <category term="hello" scheme="http://huangxiaohui.github.io/tags/hello/"/>
+      <category term="hello" scheme="http://yoursite.com/tags/hello/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://huangxiaohui.github.io/2016/08/19/hello-world/"/>
-    <id>http://huangxiaohui.github.io/2016/08/19/hello-world/</id>
+    <link href="http://yoursite.com/2016/08/19/hello-world/"/>
+    <id>http://yoursite.com/2016/08/19/hello-world/</id>
     <published>2016-08-19T09:26:30.000Z</published>
     <updated>2016-08-19T09:26:30.000Z</updated>
     
